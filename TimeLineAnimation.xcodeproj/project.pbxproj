@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DB29C2262B98520500B80A3F /* CustomDropMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB29C2252B98520500B80A3F /* CustomDropMenu.swift */; };
 		DB8F349F2B96BCFA00E3B7ED /* TimeLineAnimationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8F349E2B96BCFA00E3B7ED /* TimeLineAnimationApp.swift */; };
 		DB8F34A12B96BCFA00E3B7ED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8F34A02B96BCFA00E3B7ED /* ContentView.swift */; };
 		DB8F34A32B96BCFC00E3B7ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB8F34A22B96BCFC00E3B7ED /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DB29C2252B98520500B80A3F /* CustomDropMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomDropMenu.swift; sourceTree = "<group>"; };
 		DB8F349B2B96BCFA00E3B7ED /* TimeLineAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TimeLineAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB8F349E2B96BCFA00E3B7ED /* TimeLineAnimationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeLineAnimationApp.swift; sourceTree = "<group>"; };
 		DB8F34A02B96BCFA00E3B7ED /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				DB8F349E2B96BCFA00E3B7ED /* TimeLineAnimationApp.swift */,
 				DB8F34A02B96BCFA00E3B7ED /* ContentView.swift */,
+				DB29C2252B98520500B80A3F /* CustomDropMenu.swift */,
 				DB8F34A22B96BCFC00E3B7ED /* Assets.xcassets */,
 				DB8F34A42B96BCFC00E3B7ED /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DB29C2262B98520500B80A3F /* CustomDropMenu.swift in Sources */,
 				DB8F34A12B96BCFA00E3B7ED /* ContentView.swift in Sources */,
 				DB8F349F2B96BCFA00E3B7ED /* TimeLineAnimationApp.swift in Sources */,
 			);
